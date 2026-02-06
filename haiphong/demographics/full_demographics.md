@@ -24,13 +24,13 @@ Migration patterns show an influx of working-age adults (25-44), attracted by jo
 
 ## Income Levels
 
-Average household income in Haiphong is estimated at 60 million VND per year. Income distribution:
+Average household income in Haiphong is estimated at 60 million VND (~2,560 USD) per year. Income distribution:
 
-| Income Bracket (VND/year) | Percentage of Households |
-|---------------------------|---------------------------|
-| <30 million               | 25%                       |
-| 30-60 million             | 40%                       |
-| >60 million               | 35%                       |
+| Income Bracket (VND/year) | Income Bracket (USD/year) | Percentage of Households |
+|---------------------------|---------------------------|---------------------------|
+| <30 million               | <1,280 USD                | 25%                       |
+| 30-60 million             | 1,280 - 2,560 USD         | 40%                       |
+| >60 million               | >2,560 USD                | 35%                       |
 
 A growing middle class supports increased housing demand, retail, and service sectors.
 
